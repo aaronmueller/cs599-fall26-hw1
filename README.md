@@ -3,7 +3,7 @@
 This assignment is adapted from the Spring 2026 edition of Stanford CS336 ([original repository](https://github.com/stanford-cs336/)). All credit for its development goes to the Stanford course staff. This README and all of the following code are adapted from theirs. **If you are enrolled in this course at BU and have any questions about this assignment, email Aaron Mueller; do not email the Stanford course staff.**
 
 For a full description of the assignment, see the assignment handout at 
-[hw1.pdf](https://aaronmueller.github.io/teaching/cs599b1_fall26/homeworks/hw1/hw1.pdf).
+[hw1.pdf](https://aaronmueller.github.io/teaching/cs599b1_fall26/homeworks/hw1/CS599_HW1_Instructions.pdf).
 
 ## Setup
 
